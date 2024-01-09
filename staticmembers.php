@@ -8,6 +8,5 @@ class class1{
 }
  class1::fun();
 echo class1::$num;
-echo class2::$num
 
 ?>
